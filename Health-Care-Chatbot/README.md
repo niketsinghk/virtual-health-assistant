@@ -1,6 +1,7 @@
 # Health-Care-Chatbot
+<img width="360" height="360" alt="MedBot" src="https://github.com/user-attachments/assets/fc6eef11-6dfc-4bec-8e75-02a2bc793857" />
 
-<img src="https://www.scnsoft.com/blog-pictures/healthcare/how-chatbots-and-ai-are-changing-the-healthcare-industry_1.png">
+
 
     This chatbot will provide quick answers to FAQs by setting up rule-based keyword chatbots 
     with ¨if/then¨ logic. This chatbot will use a series of well-defined rules  to guide 
@@ -10,6 +11,7 @@
 
 
 
-<img src="https://miro.medium.com/max/875/1*69vLXZCjrJwdXytj0CTSiQ.jpeg">
 
+<img width="1200" height="1200" alt="pngtree-smart-chatbot-cartoon-clipart-png-image_9015126" src="https://github.com/user-attachments/assets/064b9f84-b06d-4a44-baad-910324becf8f" />
 PS: Please do not forget to drop a star if you like it!
+
