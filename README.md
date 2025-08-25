@@ -1,4 +1,4 @@
-# Virtual-health-assistent
+# Virtual-health-assistent(MedBot)
 <img width="360" height="360" alt="MedBot" src="https://github.com/user-attachments/assets/fc6eef11-6dfc-4bec-8e75-02a2bc793857" />
 
 
